@@ -13,6 +13,7 @@ Feature Selection diffrent methods:
 2. Backward feature elimination 
 
 You can find all these 4 under feature_selection_techniques.ipynb file
+
 3. Constant Feature
 4. Quasi Constant Feature
 5. Chi-Square (Categorical attributes)
